@@ -1,4 +1,4 @@
-# paws-pets-mf-responsive
+# paws-pets-responsive
  Creating a mobile first responsive website layout. Mockup from techdegree codeadventure
 
 
